@@ -18,8 +18,6 @@ function maxChar(str) {
             maxChar = item;
         }
     }
-    console.log(chars);
-    console.log(maxChar);
     return maxChar;
 }
 
